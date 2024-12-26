@@ -13,3 +13,11 @@ Aplicações Desktop: Desenvolvimento de aplicações desktop multiplataforma.
 Prototipagem Rápida: Ideal para criar protótipos de interfaces de usuário rapidamente.
 Ferramentas Internas: Desenvolvimento de ferramentas e dashboards internos para empresas.
 O Flet é especialmente útil para desenvolvedores que já estão familiarizados com Python e desejam criar interfaces de usuário sem a necessidade de aprender novas linguagens ou frameworks complexos.
+
+
+# Contador 
+
+Usando a documentação oficial do Flet em [flet.dev/docs](https://flet.dev/docs),
+é possível aprender o framework com exemplos e tutoriais disponíveis.
+
+Esse aplicativo é meu primeiro app desenvolvido com Flet.
